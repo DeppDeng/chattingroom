@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChattingRoom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Depp\'s Chatting Room</string>
+    <string name="send">Send</string>
+</resources>
