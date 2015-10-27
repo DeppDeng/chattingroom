@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText editsend;
     private Button btnsend;
     private static final String HOST = "192.168.56.1";
-    private static final int PORT = 12345;
+    private static final int PORT = 123456;
     private Socket socket = null;
     private BufferedReader in = null;
     private PrintWriter out = null;
